@@ -1,6 +1,6 @@
 ## Tahap instalasi 
 1. Buka terminal lalu buka directory untuk menyimpan project
-2. Lakukan push project dengan cara : git push https://github.com/jefailhamprayoga13/forwardin-ads.git
+2. Lakukan push project dengan cara : git clone https://github.com/jefailhamprayoga13/forwardin-ads.git
 3. Buka projectnya lalu ketikkan : npm install
 4. Project bisa langsung dijalankan dengan : npm run dev
 
