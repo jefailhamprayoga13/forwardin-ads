@@ -4,7 +4,9 @@
 3. Buka projectnya lalu ketikkan : npm install
 4. Project bisa langsung dijalankan dengan : npm run dev
 
-
+User dengan role admin
+email : jefa@gmail.com
+password : 12345678
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
